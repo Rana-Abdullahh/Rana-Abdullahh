@@ -1,3 +1,4 @@
+![logo](https://github.com/Rana-Abdullahh/Rana-Abdullahh/blob/main/Banner.png.png)
 <h1 align="center">Hi 👋, I'm Rana Abdullah</h1>
 <h3 align="center">A Skilled WordPress Developer | Woo-commerce Expert</h3>
 
