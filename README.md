@@ -3,7 +3,6 @@
 
 <img align="right" alt="Developer" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-abdullahh&label=Profile%20views&color=0e75b6&style=flat" alt="rana-abdullahh" /> </p>
 
 - 👯 I have created website [Falcon Tech](https://falcontech.com.pk/)
@@ -18,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/yolo_2081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yolo_2081" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
